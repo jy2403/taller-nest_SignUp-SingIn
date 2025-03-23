@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Autor: Juan Felipe Yepes Riobo
 
 ## Project setup
 
